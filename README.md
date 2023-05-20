@@ -13,6 +13,13 @@ projetIntegration
 ```bash
 git clone https://github.com/Naimbouz/projetIntegration.git
 ```
+Navigate to the project directory:
+
+Install the dependencies:
+```bash
+cd zrayeb
+```
+
 Install the dependencies:
 ```bash
  npm install
